@@ -1,6 +1,7 @@
 Those projects consist of (in order of appearance):
 
-Thesis                                   - Android app                             - Kotlin, Jetpck Compose, Firebase
+```
+Thesis                                   - Android app                             - Kotlin, Jetpack Compose, Firebase
 Archaeology of Intelligent Machines      - Fast Weights research paper + code      - Python, LaTeX
 Databases                                - Gaming companies database               - SQL
 Blockchain                               - Voting system                           - Solidity, Web3.js
@@ -12,3 +13,4 @@ Computer Networks                        - DNS Adblocker                        
 Database Management Systems              - Gaming companies management             - PL/SQL
 Web Techniques                           - Personal web portfolio                  - HTML, CSS, JavaScript
 Unreal Engine 5                          - Simple game                             - Unreal Engine 5
+```
