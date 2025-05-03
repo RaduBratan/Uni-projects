@@ -1,4 +1,4 @@
-English version, in order of appearance:
+English version with descriptions and technologies for each project, in order of appearance in the files list above:
 
 ```
 Thesis                                   - Android app                             - Kotlin, Jetpack Compose, Firebase
