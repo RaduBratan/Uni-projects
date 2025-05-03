@@ -1,4 +1,4 @@
-Those projects consist of (in order of appearance):
+English version, in order of appearance:
 
 ```
 Thesis                                   - Android app                             - Kotlin, Jetpack Compose, Firebase
@@ -14,3 +14,5 @@ Database Management Systems              - Gaming companies management          
 Web Techniques                           - Personal web portfolio                  - HTML, CSS, JavaScript
 Unreal Engine 5                          - Simple game                             - Unreal Engine 5
 ```
+
+**Note: Not every subject required me to create projects. Answers for exams that I took are not included here.**
